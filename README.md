@@ -13,8 +13,8 @@ EKIDIO AI Mastering Studio is a browser-based, client-side audio mastering web a
 - Web Audio API: For real-time audio analysis and signal processing.
 - JSZip / Pako: For client-side data compression and file handling.
 
-#Installation & UsagePrerequisites:
+#Installation & UsagePrerequisites: __Open EKIDIO_AI_MASTERING_download.html directly in your browser__
 Any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari)
-Open EKIDIO_AI_MASTERING_download.html directly in your browser.
 
-#LicenseCreated by EKIDIO. Free to use and modify for personal or educational purposes. 
+
+#LicenseCreated by EKIDIO. __Free to use and modify__ for personal or educational purposes. 
