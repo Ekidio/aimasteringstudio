@@ -24,5 +24,4 @@ Any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari)
 
 <img width="1309" height="872" alt="Screenshot 2026-09-12 at 11 58 20" src="https://github.com/user-attachments/assets/ec125c9d-3fde-4db2-a4fc-b99002daf165" />
 
-<img width="2880" height="1246" alt="Screenshot 2026-09-12 at 11 58 05" src="https://github.com/user-attachments/assets/0ccbb744-882c-48dc-928a-c1c6a568d11b" />
 
